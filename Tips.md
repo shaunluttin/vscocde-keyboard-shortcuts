@@ -1,5 +1,5 @@
 # Tips
 
-* Enable autosave
-* Disable an extension for the workspace
-* Open multiple workspaces (it appears that settings are directory specific)
+* Enable autosave, (File > Autosave)
+* Disable an extension for the workspace (Extension > Gear > Disable (Workspace))
+    * This is directory specific.
