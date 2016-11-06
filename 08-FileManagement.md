@@ -5,3 +5,5 @@ Save, Ctrl+ S
 Save As, Ctrl+ Shift + S 
 Close, Ctrl+ F4     
 Copy path of active file, Ctrl+ K P (Vim?)
+Keep open, Ctrl+ K Enter
+

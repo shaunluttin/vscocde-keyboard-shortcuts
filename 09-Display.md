@@ -1,10 +1,21 @@
-# Display
+# Display ()
 
+* Toggle full screen, F11
 * Zoom in/out, Ctrl+ -/=
-* Toggle sidebar visibility, Ctrl+ B (Does not work with Vim?)
+* Toggle sidebar visibility, Ctrl+ B (!vim)
 * Show Explorer, Ctrl+ Shift+ E
+    * Also returns focus to editor
 * Show Git, Ctrl+ Shift+ G
+* Show Debug, Ctrl+ Shift+ D
 * Show Extensions, Ctrl+ Shift+ X
-* Open Terminal, Ctrl+ Shift+ C (Use PowerShell/Bash?)
+* Show Output Panel, Ctrl+ Shift+ U
+* Replace in files, Ctrl+ Shift+ H
+* Toggle search details, Ctrl+ Shift+ J
+* Open Terminal, Ctrl+ Shift+ C (question: how to open posh/bash?)
 * Toggle Markdown preview, Ctrl+ Shift+ V
-* Open Markdown preivew to side, Ctrl+ K V (Doesn't work for me?)
+* Open Markdown preview to side, Ctrl+ K V (!vim)
+
+## Notes
+
+* With Vim, toggle sidebar visibility does not work.
+* This is a pain point.

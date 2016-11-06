@@ -1,4 +1,4 @@
-# Nagivation
+# Nagivation (one Vim conflict, one question)
 
 * Show all symbols, Ctrl+ T
 * Go to line, Ctrl+ G
@@ -13,14 +13,11 @@
 
 ## Notes
 
-* For .NET Core projects, 
-* symbol-related commands work 
+* For .NET Core, symbol-related commands work 
 * when the root workspace directory is a project.json file.
 
 * What differentiates Ctrl+ Shift+ Tab from the vanilla Ctrl+ Tab?
 
-* The next/previous error is very pretty. :)
-
-* Tab moves focus - this is an accessibility feature.
+* Tab moves focus - is an accessibility feature.
 * When on, pressing tab does NOT impact the text in the editor
 * but instead moves the focus among editor elements (e.g. tabs, windows, windows). 
