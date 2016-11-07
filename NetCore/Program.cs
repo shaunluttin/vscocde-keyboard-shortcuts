@@ -8,5 +8,9 @@ namespace ConsoleApplication
         {
             Console.WriteLine();
         }
+
+        public void Foo()
+        {
+        }
     }
 }

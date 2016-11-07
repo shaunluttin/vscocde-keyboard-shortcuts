@@ -16,7 +16,7 @@
 * For .NET Core, symbol-related commands work 
 * when the root workspace directory is a project.json file.
 
-* What differentiates Ctrl+ Shift+ Tab from the vanilla Ctrl+ Tab?
+* What differentiates Ctrl+ Shift+ Tab from Ctrl+ Tab?
 
 * Tab moves focus - is an accessibility feature.
 * When on, pressing tab does NOT impact the text in the editor

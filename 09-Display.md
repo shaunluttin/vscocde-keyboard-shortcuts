@@ -1,6 +1,7 @@
 # Display ()
 
 * Toggle full screen, F11
+* Toggle editor layout, Shift+ Alt+ 1
 * Zoom in/out, Ctrl+ -/=
 * Toggle sidebar visibility, Ctrl+ B (!vim)
 * Show Explorer, Ctrl+ Shift+ E
