@@ -1,7 +1,7 @@
 # Rich Languages Editing
 
 * Trigger suggestion, Ctrl+ space
-* Trigger parameter hints, Ctrl+ Shift+ Space (!clear)
+* Trigger parameter hints, Ctrl+ Shift+ Space
 * Emmet expand abbreviation, Tab
     * E.g. prop Tab
     * E.g. ctor Tab
@@ -11,9 +11,9 @@
 * Format selection, Ctrl+ K Ctrl+ F (!vim)
 * Go to definition, F12
 * Peak definition, Alt+ F12
-* Open definition to the side, Ctrl+ K F12
+* Open definition to the side, Ctrl+ K F12 (!vim)
 * Quick fix, Ctrl+ . (!clear)
-* Shift F12, Show references 
+* Show references, Shift F12
 * Rename symbol, F2
 * Replace with next/previous value, Ctrl+ Shift+ ./, (!clear)
 * Trim trailing whitespace, Ctrl+K Ctrl+ X (!vim)

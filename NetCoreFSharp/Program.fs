@@ -5,5 +5,6 @@ open System
 
 [<EntryPoint>]
 let main argv = 
+    printfn "Hi there!"
     printfn "Hello World!"
     0 // return an integer exit code
