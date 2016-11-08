@@ -4,13 +4,14 @@
     {
         public static void Main(string[] args)
         {
-            var x = new SomeClass("Dogs are higher maintenance than are cats.");
+            var x = new FooBarClass("Dogs are higher maintenance than are cats.");
             x.WriteProperty();
         }
         
         public void Foo()
         {
             var x = 01;
+            System.Console.WriteLine(x);
         }
 
         public void Bar()

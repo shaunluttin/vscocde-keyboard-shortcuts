@@ -1,10 +1,10 @@
 namespace ConsoleApplication
 {
-    public class SomeClass
+    public class FooBarClass
     {
         private readonly string _someProperty;
 
-        public SomeClass(string someParameter)
+        public FooBarClass(string someParameter)
         {
             _someProperty = someParameter;
         }
