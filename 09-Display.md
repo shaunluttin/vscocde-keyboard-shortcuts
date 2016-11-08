@@ -1,4 +1,4 @@
-# Display ()
+# Display
 
 * Toggle full screen, F11
 * Toggle editor layout, Shift+ Alt+ 1
@@ -15,8 +15,3 @@
 * Open Terminal, Ctrl+ Shift+ C (question: how to open posh/bash?)
 * Toggle Markdown preview, Ctrl+ Shift+ V
 * Open Markdown preview to side, Ctrl+ K V (!vim)
-
-## Notes
-
-* With Vim, toggle sidebar visibility does not work.
-* This is a pain point.
