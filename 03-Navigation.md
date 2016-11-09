@@ -7,7 +7,7 @@
 * Show problems panel, Ctrl+ Shift+ M
 * Go to next error or warning, F8
 * Go to previous error or warning, Shift+ F8
-* Navigate editor group history, Ctrl+ Shift+ Tab (!clear)
+* Navigate editor group history, Ctrl+ Shift+ Tab (!redundant)
 * Go back/forward, Alt+ Left/Right
 * Toggle tab moves focus, Ctrl+ M (!vim)
 

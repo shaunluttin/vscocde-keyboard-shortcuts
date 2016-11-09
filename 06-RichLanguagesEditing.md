@@ -1,7 +1,7 @@
 # Rich Languages Editing
 
 * Trigger suggestion, Ctrl+ space
-* Trigger parameter hints, Ctrl+ Shift+ Space
+* Trigger parameter hints, Ctrl+ Shift+ Space (issue: sometimes the up/down arrows do not work)
 * Emmet expand abbreviation, Tab
     * E.g. prop Tab
     * E.g. ctor Tab
@@ -12,10 +12,10 @@
 * Go to definition, F12
 * Peak definition, Alt+ F12
 * Open definition to the side, Ctrl+ K F12 (!vim)
-* Quick fix, Ctrl+ . (!clear)
+* Quick fix, Ctrl+ . (issue: sometimes OmniSharp is `null`)
 * Show references, Shift F12
 * Rename symbol, F2
-* Replace with next/previous value, Ctrl+ Shift+ ./, (!clear)
+* Replace with next/previous value, Ctrl+ Shift+ ./
 * Trim trailing whitespace, Ctrl+K Ctrl+ X (!vim)
 * Change file language, Ctrl+ K M (!vim)
     * This breaks "format document"

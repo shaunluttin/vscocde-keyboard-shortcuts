@@ -1,6 +1,6 @@
 # Editor Management
 
-* Close editor, Ctrl+ F4 or Ctrl+ W (!clear)
+* Close editor, Ctrl+ F4 or Ctrl+ W 
 * Close folder, Ctrl+ K F (!vim)
 * Split editor, Ctrl+ \
 * Focus into numbered editor group, Ctrl+ 1 / 2 / 3
